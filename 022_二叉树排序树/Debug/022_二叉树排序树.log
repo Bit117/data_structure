@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\DONG\Code\kaoyan\data_structure\022_二叉树排序树\main.cpp(44,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DONG\Code\kaoyan\data_structure\022_二叉树排序树\main.cpp(38): warning C4715: “BST_Insert”: 不是所有的控件路径都返回值
+  022_二叉树排序树.vcxproj -> C:\Users\DONG\Code\kaoyan\data_structure\数据结构\Debug\022_二叉树排序树.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\DONG\Code\kaoyan\data_structure\课时16作业\main.cpp(31,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DONG\Code\kaoyan\data_structure\课时16作业\main.cpp(49,12): warning C4101: “flag”: 未引用的局部变量
+C:\Users\DONG\Code\kaoyan\data_structure\课时16作业\main.cpp(65,23): warning C4018: “<”: 有符号/无符号不匹配
+  课时16作业.vcxproj -> C:\Users\DONG\Code\kaoyan\data_structure\数据结构\Debug\课时16作业.exe

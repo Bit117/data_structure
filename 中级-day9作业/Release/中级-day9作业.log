@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\DONG\Code\kaoyan\data_structure\中级-day9作业\main.cpp(57,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DONG\Code\kaoyan\data_structure\中级-day9作业\main.cpp(101,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DONG\Code\kaoyan\data_structure\中级-day9作业\main.cpp(99,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\DONG\Code\kaoyan\data_structure\中级-day9作业\main.cpp(137,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DONG\Code\kaoyan\data_structure\中级-day9作业\main.cpp(150,9): warning C4101: “search”: 未引用的局部变量
+C:\Users\DONG\Code\kaoyan\data_structure\中级-day9作业\main.cpp(149,9): warning C4101: “parent”: 未引用的局部变量
+C:\Users\DONG\Code\kaoyan\data_structure\中级-day9作业\main.cpp(172,11): warning C4101: “key”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\DONG\Code\kaoyan\data_structure\中级-day9作业\main.cpp(50): warning C4715: “BST_Insert”: 不是所有的控件路径都返回值
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  中级-day9作业.vcxproj -> C:\Users\DONG\Code\kaoyan\data_structure\数据结构\Release\中级-day9作业.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\DONG\Code\kaoyan\data_structure\011_栈\main.cpp(101,23): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\DONG\Code\kaoyan\data_structure\011_栈\main.cpp(55): warning C4715: “PrintStack”: 不是所有的控件路径都返回值
+  011_栈.vcxproj -> C:\Users\DONG\Code\kaoyan\data_structure\数据结构\Debug\011_栈.exe

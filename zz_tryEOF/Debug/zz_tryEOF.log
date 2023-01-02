@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\DONG\Code\kaoyan\data_structure\zz_tryEOF\源.cpp(64,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\DONG\Code\kaoyan\data_structure\zz_tryEOF\源.cpp(65,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  zz_tryEOF.vcxproj -> C:\Users\DONG\Code\kaoyan\data_structure\数据结构\Debug\zz_tryEOF.exe

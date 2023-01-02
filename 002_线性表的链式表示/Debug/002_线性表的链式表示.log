@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\DONG\Code\kaoyan\data_structure\002_线性表的链式表示\main.cpp(144,6): warning C4101: “pos”: 未引用的局部变量
+C:\Users\DONG\Code\kaoyan\data_structure\002_线性表的链式表示\main.cpp(108): warning C4715: “ListDelete”: 不是所有的控件路径都返回值
+  002_线性表的链式表示.vcxproj -> C:\Users\DONG\Code\kaoyan\data_structure\数据结构\Debug\002_线性表的链式表示.exe

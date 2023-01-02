@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\DONG\Code\kaoyan\data_structure\中级day3作业\main.cpp(17,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DONG\Code\kaoyan\data_structure\中级day3作业\main.cpp(30,30): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DONG\Code\kaoyan\data_structure\中级day3作业\main.cpp(46,25): warning C4018: “<”: 有符号/无符号不匹配
+  中级day3作业.vcxproj -> C:\Users\DONG\Code\kaoyan\data_structure\数据结构\Debug\中级day3作业.exe

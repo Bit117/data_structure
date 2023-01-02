@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\DONG\Code\kaoyan\data_structure\021_二叉树\main.cpp(19,12): warning C4101: “pos”: 未引用的局部变量
+C:\Users\DONG\Code\kaoyan\data_structure\021_二叉树\main.cpp(19,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\DONG\Code\kaoyan\data_structure\021_二叉树\main.cpp(19,6): warning C4101: “i”: 未引用的局部变量
+  021_二叉树.vcxproj -> C:\Users\DONG\Code\kaoyan\data_structure\数据结构\Debug\021_二叉树.exe
